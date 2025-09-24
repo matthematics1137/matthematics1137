@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="Project 1 placeholder">
+  <rect width="800" height="420" fill="#111827"/>
+  <rect x="24" y="24" width="752" height="372" rx="12" fill="#1f2937" stroke="#374151"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="28">Project 1 Thumbnail</text>
+</svg>
