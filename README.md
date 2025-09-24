@@ -26,12 +26,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 <!-- Add more shields as needed -->
 
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=matthematics1137&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthematics1137&layout=compact)
-![Streak](https://streak-stats.demolab.com?user=matthematics1137)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matthematics1137&theme=github-compact)
+<!-- Languages card removed by request -->
 
 ## Featured Projects
 
@@ -80,4 +75,3 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](#)
 
 <!-- Note: animations intentionally omitted. Add later if desired. -->
-
