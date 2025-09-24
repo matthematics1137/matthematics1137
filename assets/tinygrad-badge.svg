@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" role="img" aria-label="tinygrad">
+  <rect width="120" height="28" rx="4" fill="#0f172a"/>
+  <g fill="#a3e635" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="14" font-weight="600">
+    <text x="60" y="19" text-anchor="middle">tinygrad</text>
+  </g>
+</svg>

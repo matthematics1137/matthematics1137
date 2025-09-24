@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" role="img" aria-label="Ollama">
+  <rect width="120" height="28" rx="4" fill="#111827"/>
+  <g fill="#10b981" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial" font-size="14" font-weight="600">
+    <text x="60" y="19" text-anchor="middle">Ollama</text>
+  </g>
+</svg>
