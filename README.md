@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://matthematics.xyz" target="_blank" rel="noopener noreferrer">
+<a href="https://www.matthematics.xyz" target="_blank" rel="noopener noreferrer">
   <img alt="matthematics.xyz" src="https://img.shields.io/badge/website-matthematics.xyz-0b3d91?logo=firefox-browser&logoColor=white">
   
   
